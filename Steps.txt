@@ -1,0 +1,5 @@
+1) Create a folder through your file system in the C# programming file. 
+
+2) Use dotnet new console at the new directory to start your project. 
+
+3) Use dotnet run to run the program. 
